@@ -51,7 +51,7 @@ Python 3.8+
 Git
 MySQL Server: You must have a MySQL server instance installed and running on your machine.
 1. Clone the Repository
-git clone [https://github.com/Srinidhi945/AI-Powered-Expense-Tracker.git](https://github.com/Srinidhi945/AI-Powered-Expense-Tracker.git)
+git clone https://github.com/harshithrajB20/AI-Expense-Tracker.git
 cd AI-Powered-Expense-Tracker
 2. Backend Setup (Django & MySQL)
 This sets up the database, dependencies, and API server.
